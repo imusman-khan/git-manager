@@ -569,10 +569,6 @@ The interactive diff viewer offers:
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-[Specify your license here]
-
 ## Support
 
 For support, please [create an issue](repository-issues-url) or contact [support contact].
