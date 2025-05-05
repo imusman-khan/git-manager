@@ -571,4 +571,4 @@ The interactive diff viewer offers:
 
 ## Support
 
-For support, please [create an issue](repository-issues-url) or contact [support contact].
+For support, please contact usmankhan.vu@gmail.com.
